@@ -2,7 +2,7 @@
 """
 Created on Sat May 17 22:24:05 2025
 
-@author: Bjorn and adjustments were made by Victor
+@author: Bjorn and small adjustments were made by Victor
 """
 
 import pandas as pd
